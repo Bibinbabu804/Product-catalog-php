@@ -1,0 +1,226 @@
+[
+    {
+      "name": "Samsung Galaxy A53 5G",
+      "description": "A mid-range phone with solid performance and a 120Hz refresh rate display.",
+      "price": 449,
+      "image": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a35/buy/720x720_A35_5G-3.jpg",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "6.5 inches",
+        "Processor": "Exynos 1280",
+        "Storage": "128GB",
+        "Camera": "64MP main, 12MP ultra-wide, 5MP macro, 5MP depth",
+        "Battery Life": "Up to 20 hours"
+      }
+    },
+    {
+      "name": "iPhone SE 2nd Gen",
+      "description": "A budget-friendly iPhone that offers the performance of the A13 Bionic chip in a compact design.",
+      "price": 399,
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-se-finish-unselect-gallery-1-202207_FMT_WHH?wid=1280&hei=492&fmt=p-jpg&qlt=80&.v=VEhreGxMWU8vckorVEJ3dVU2RjJZZFgrSXpWVEhWaW9YTGlWRHFoSHU0OG5mNEIvMUVsODRNNlRVVkNDQ2g4akpxbExkakZwOW1FVDBpNHlyYVFtRmdLV2FqbzNtY1BxSW9iSE1sc2hZc1YrejJvV21jV3JjQW9QdTJhTGI0YzYyRlBza3dYTzZGendmNnQxTG4wL3d3&traceId=1",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "4.7 inches",
+        "Processor": "A13 Bionic chip",
+        "Storage": "64GB",
+        "Camera": "12MP main",
+        "Battery Life": "Up to 13 hours"
+      }
+    },
+    {
+      "name": "MacBook Pro 16-inch",
+      "description": "Apple's high-performance laptop.",
+      "price": 2499,
+      "image": "https://i.ytimg.com/vi/zqJ9A6N-YB4/maxresdefault.jpg",
+      "category": "Laptops",
+      "specifications": {
+        "Processor": "M2 Pro chip",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Screen Size": "16 inches",
+        "Battery Life": "Up to 18 hours"
+      }
+    },
+    {
+      "name": "Samsung Galaxy Z Flip 4",
+      "description": "Samsung's stylish foldable phone with a compact design and flexible screen.",
+      "price": 999,
+      "image": "https://images.samsung.com/nz/smartphones/galaxy-z-flip6/buy/product_color_peach_MO_v2.png",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "6.7 inches (main)",
+        "Processor": "Snapdragon 8 Gen 1",
+        "Storage": "128GB",
+        "Camera": "12MP main, 12MP ultra-wide",
+        "Battery Life": "Up to 15 hours"
+      }
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "description": "A premium business laptop with top-tier performance and a lightweight, durable design.",
+      "price": 1599,
+      "image": "https://p1-ofp.static.pub//fes/cms/2024/03/07/zpuzenaiwgirevtfhwakefypg46ff5766229.jpg",
+      "category": "Laptops",
+      "specifications": {
+        "Processor": "Intel Core i7 12th Gen",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Screen Size": "14 inches",
+        "Battery Life": "Up to 15 hours"
+      }
+    },
+    {
+      "name": "iPhone XR",
+      "description": "A more affordable iPhone with a powerful A12 Bionic chip and solid camera performance.",
+      "price": 599,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWzGjw6thhB5csqFJj4cOWVY8DgGEuXsPIw&s",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "6.1 inches",
+        "Processor": "A12 Bionic chip",
+        "Storage": "64GB",
+        "Camera": "12MP main",
+        "Battery Life": "Up to 16 hours"
+      }
+    },
+    {
+      "name": "Dell XPS 13",
+      "description": "A compact and powerful laptop.",
+      "price": 1199,
+      "image": "https://rukminim2.flixcart.com/image/750/900/xif0q/computer/i/7/r/latitude-3420-business-laptop-dell-original-imagn6hrwnczrmzv.jpeg?q=20&crop=false",
+      "category": "Laptops",
+      "specifications": {
+        "Processor": "Intel Core i7 12th Gen",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Screen Size": "13.4 inches",
+        "Battery Life": "Up to 14 hours"
+      }
+    },
+    {
+      "name": "iPhone 12 Pro Max",
+      "description": "A high-end model with a large screen and excellent camera features for photography enthusiasts.",
+      "price": 1099,
+      "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_announce-iphone12pro_10132020_big.jpg.large.jpg",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "6.7 inches",
+        "Processor": "A14 Bionic chip",
+        "Storage": "128GB",
+        "Camera": "12MP main, 12MP ultra-wide, 12MP telephoto",
+        "Battery Life": "Up to 20 hours"
+      }
+    },
+    {
+      "name": "Samsung Galaxy S22 Ultra",
+      "description": "A flagship Samsung device with a 108MP camera and a large AMOLED display.",
+      "price": 1199,
+      "image": "https://images-cdn.ubuy.co.in/653d186ad3a6404c2a501a35-samsung-galaxy-s22-ultra-5g-sm-s908u.jpg",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "6.8 inches",
+        "Processor": "Snapdragon 8 Gen 1",
+        "Storage": "128GB",
+        "Camera": "108MP main, 12MP ultra-wide, 10MP telephoto, 10MP periscope",
+        "Battery Life": "Up to 18 hours"
+      }
+    },
+    {
+      "name": "iPhone 13",
+      "description": "The previous generation iPhone with a powerful A15 chip and excellent camera capabilities.",
+      "price": 799,
+      "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone13_colors_09142021_big.jpg.small.jpg",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "6.1 inches",
+        "Processor": "A15 Bionic chip",
+        "Storage": "128GB",
+        "Camera": "12MP main, 12MP ultra-wide",
+        "Battery Life": "Up to 19 hours"
+      }
+    },
+    {
+      "name": "Acer Predator Helios 300",
+      "description": "A gaming laptop with an impressive GPU and refresh rate display for smooth gaming.",
+      "price": 1499,
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/03/full/1727947151-7092.jpeg",
+      "category": "Laptops",
+      "specifications": {
+        "Processor": "Intel Core i7 12th Gen",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Screen Size": "15.6 inches",
+        "Battery Life": "Up to 7 hours"
+      }
+    },
+    {
+      "name": "Samsung Galaxy Note 20 Ultra",
+      "description": "A premium smartphone with a large display and powerful S-Pen functionality.",
+      "price": 1299,
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201708/galaxy-note-8-main_559_082417094139.jpg?VersionId=dLqYGSZmjqRsld2G_OFwskv7mrnP94N1",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "6.9 inches",
+        "Processor": "Snapdragon 865+",
+        "Storage": "256GB",
+        "Camera": "108MP main, 12MP ultra-wide, 12MP telephoto",
+        "Battery Life": "Up to 22 hours"
+      }
+    },
+    {
+      "name": "HP Envy 13",
+      "description": "A stylish and portable laptop with a high-resolution screen and solid performance.",
+      "price": 1099,
+      "image": "https://images.jdmagicbox.com/quickquotes/images_main/hp-envy-x360-ag-series-ryzen-5-quad-core-8-gb-256-gb-ssd-windows-10-home-13-ag0035au-2-in-1-laptop-13-3-black-1-3-kg-116851543-2vz6f.jpg",
+      "category": "Laptops",
+      "specifications": {
+        "Processor": "Intel Core i7 11th Gen",
+        "RAM": "8GB",
+        "Storage": "512GB SSD",
+        "Screen Size": "13.3 inches",
+        "Battery Life": "Up to 12 hours"
+      }
+    },
+    {
+      "name": "iPhone 14",
+      "description": "The latest Apple smartphone.",
+      "price": 999,
+      "image": "https://m.economictimes.com/thumb/msid-93701819,width-1200,height-900,resizemode-4,imgsize-45376/iphone-14-check-out-what-is-new-in-apples-new-phone.jpg",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "6.1 inches",
+        "Processor": "A15 Bionic chip",
+        "Storage": "128GB",
+        "Camera": "12MP main, 12MP ultra-wide",
+        "Battery Life": "Up to 20 hours of video playback"
+      }
+    },
+    {
+      "name": "Apple MacBook Air M2",
+      "description": "Apple's ultra-thin laptop with the new M2 chip for faster performance and longer battery life.",
+      "price": 1199,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyYzhkSLFzL35Orl7KOkkoRRrpkdTMBpqvMe8F2fdZMZW1oOmC_Tpfe52e2NZr31WTb2Q&usqp=CAU",
+      "category": "Laptops",
+      "specifications": {
+        "Processor": "Apple M2 chip",
+        "RAM": "8GB",
+        "Storage": "256GB SSD",
+        "Screen Size": "13.6 inches",
+        "Battery Life": "Up to 18 hours"
+      }
+    },
+    {
+      "name": "iPhone 11 Pro",
+      "description": "The previous flagship phone with a triple-camera setup and excellent performance.",
+      "price": 999,
+      "image": "https://blogs-images.forbes.com/gordonkelly/files/2019/09/Screenshot-2019-09-13-at-02.52.58.png",
+      "category": "Smartphones",
+      "specifications": {
+        "Screen Size": "5.8 inches",
+        "Processor": "A13 Bionic chip",
+        "Storage": "64GB",
+        "Camera": "12MP main, 12MP ultra-wide, 12MP telephoto",
+        "Battery Life": "Up to 18 hours"
+      }
+    }
+]
